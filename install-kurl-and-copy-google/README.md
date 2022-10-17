@@ -1,0 +1,1 @@
+##### Using Curl for request google and capture output and adding at a diretory /home
